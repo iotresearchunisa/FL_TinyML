@@ -18,7 +18,7 @@ LA ESP32 ARDUINO E' WEMOS D1 R32
 LA ESP32 E' ESP32 DEV MODULE
 
 ARDUINO MKR1010:
-Fa i capricci se i path dei file sono lunghi!
+Problemi se i path dei file sono lunghi!
 
 SD ESP32
 GND	    GND
