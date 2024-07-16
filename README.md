@@ -19,7 +19,7 @@ MQTT script on raspberry starts automatically and saves logs in:
 
 - [@Massimo Ficco](https://docenti.unisa.it/058291/home)
 - [@Antonio Guerriero](https://www.docenti.unina.it/#!/professor/414e544f4e494f47554552524945524f4752524e544e39324d3036483933314c/riferimenti)
-- @Elio Milite
+- [@Elio Milite](https://www.linkedin.com/in/elio-milite/)
 - [@Francesco Palmieri](https://docenti.unisa.it/026587/home)
 - [@Roberto Pietrantuono](https://scholar.google.com/citations?hl=it&user=Htert2EAAAAJ)
 - [@Stefano Russo](https://www.docenti.unina.it/#!/professor/53544546414e4f525553534f52535353464e36335032304638333959/riferimenti)
