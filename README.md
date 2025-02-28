@@ -3,7 +3,7 @@
 
 The proliferation of the Internet of Things (IoT) with its innumerable applications, combined with the advent of machine learning (ML), has enabled the rapid growth of widespread and intelligent systems in a variety of fields. TinyML technology facilitates the implementation of locally operated machine learning (ML) algorithms on Internet of Things (IoT) devices. This paper presents a technique for training on-board ML algorithms on IoT devices, combining federated learning (FL) and transfer learning (TL). The experimental analysis compares the proposed approach to traditional FL solutions and combined techniques based on TensorFlow Lite, with a focus on classification and regression problems. The findings indicate that FLs with TLs achieve a higher level of accuracy (86.48%) than FLs without TLs in both classification and regression tasks (0.0201). We continue to analyze the time required for training and the energy consumed during inference on a variety of devices. Finally, we evaluated the impact of performance changes on unbalanced training data sets and demonstrated that, although they have a significant influence on accuracy, FL makes models more robust and can achieve accuracy comparable to that obtained for models trained on balanced data sets.
 
-![TinyML](https://github.com/user-attachments/assets/432c6a3f-e737-4c2a-8425-a9fb66964008)
+![TinyML-Short](https://github.com/user-attachments/assets/992efe50-0931-48f1-b0b0-1f190f71a256)
 
 ## Documentation
 ![Uploading TinyML.jpg…]()
